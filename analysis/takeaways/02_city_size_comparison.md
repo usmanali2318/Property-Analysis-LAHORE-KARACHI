@@ -1,0 +1,5 @@
+LAHORE VS KARACHI PRICE COMPARISON
+I compared the 10 plot sizes that exist in both cities, using the last 12 months (September 2025 to August 2026) and typical (median) prices.
+For houses, Karachi is more expensive at every size. The biggest gap is at 3 Marla, where Karachi is 87% pricier, followed by 1 Kanal (35%), 2 Kanal (18%), 5 Marla (15%) and 10 Marla (14%), with the smallest gap at 7 Marla (10%). For flats it is the other way round at smaller sizes: Lahore is more expensive at 3, 5 and 7 Marla (62%, 20% and 26% pricier), while Karachi is slightly pricier at 10 Marla (8%). The closest matches are 10 Marla flats and 7 Marla houses, and everything else differs by 14% or more.
+Per square foot the gaps are even wider, for example a Karachi 3 Marla house is 145% pricier per square foot. A Karachi 3 Marla house is smaller than a Lahore one, about 480 sq ft versus 630, so Karachi buyers pay more for less space.
+All 10 comparisons use the full 12 months of data in both cities. Why the gaps exist, such as location scarcity, luxury demand and buyer mix, is my interpretation and was not tested in this data.

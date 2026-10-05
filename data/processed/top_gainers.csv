@@ -1,0 +1,11 @@
+city,property_type,area,area_size,months,n_outliers,months_up,chg_12m_pct
+Lahore,houses,Central Park Housing Scheme,Central Park - Block E,56,2,10,43.3
+Karachi,houses,Gulistan-e-Jauhar,Gulistan-e-Jauhar - Block 3-A,134,3,10,39.7
+Karachi,flats,Clifton,Clifton - Block 1,149,0,9,33.4
+Karachi,houses,Korangi,All,131,0,8,33.2
+Karachi,houses,DHA Defence,DHA Phase 7 Extension,156,0,10,32.4
+Karachi,flats,DHA Defence,DHA Phase 7,150,0,10,32.0
+Karachi,houses,DHA Defence,DHA Phase 7,183,1,9,31.8
+Karachi,flats,DHA Defence,DHA Phase 5,163,0,11,31.0
+Lahore,flats,Bahria Orchard,Bahria Orchard Phase 4,82,1,9,30.9
+Karachi,houses,DHA Defence,DHA Phase 4,182,0,10,30.3
